@@ -1,6 +1,5 @@
 Morty,
 X-11,
-Carrot Top,
 Angela Lansbury's Head,
 Mrs. Peanut Butter,
 Aunt Jemima,
@@ -8,5 +7,4 @@ Shinji,
 Johny Five,
 Anita,
 Forty-Two The Eleventh,
-Carrotina,
-Amelia
+Xccisndd of the Sunistad
